@@ -1,5 +1,5 @@
-# sentry_reflect_sound_fix
+# Sentry Reflect Sound Fix
 Fixes the flamethrower looping sound bug when reflecting sentry rockets
 
 # Comparison
-https://user-images.githubusercontent.com/13336890/186240889-13caefb5-4696-4222-9532-9dd5707c9b2a.mp4
+https://user-images.githubusercontent.com/13336890/186241420-6f9e7b12-745c-4351-a423-d9ca4ecb28c2.mp4
