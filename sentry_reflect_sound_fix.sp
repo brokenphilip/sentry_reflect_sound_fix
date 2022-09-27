@@ -10,7 +10,7 @@ public Plugin myinfo =
 	author = "brokenphilip",
 	description = "Fixes the flamethrower looping sound bug when reflecting sentry rockets",
 	version = "1.0",
-	url = "https://steamcommunity.com/id/brokenphilip"
+	url = "https://github.com/brokenphilip/sentry_reflect_sound_fix"
 };
 
 public void OnPluginStart()
